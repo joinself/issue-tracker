@@ -1,6 +1,6 @@
 # Public Issue Tracker for Joinself
 
-This repository serves as a **public issue tracker** for the `Self` platfor.
+This repository serves as a **public issue tracker** for the [Self](https://www.joinself.com) platform.
 
 [Create an Issue](https://github.com/joinself/issue-tracker/issues/new/choose)
 
